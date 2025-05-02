@@ -1,30 +1,34 @@
 
-# DexFi | Autonomously governed. Yield Driven.
-
 <div id="header" align="center">
-  <img src="https://dexfi.com/dexfiBanner.jpg" alt="dexFi" />
+  <a href="https://dexfi.com/" target="_blank"><img src="https://dexfi.com/dexfiBanner.jpg" alt="dexFi" /></a>
 </div>
 
 <div id="website" align="center">
-  www.DexFi.com
+  <a href="https://dexfi.com/" target="_blank">dexfi.com</a>
 </div>
 
+<br />
+
 <p align="center">
-  <a href="https://docs.dexfi.com/"><img src="https://img.shields.io/badge/Docs-20B2AA?style=for-the-badge&amp;color=1e7df0" alt="Docs" /></a> 
   <a href="https://discord.gg/dexfinance"><img src="https://img.shields.io/badge/Discord-20B2AA?style=for-the-badge&amp;color=5865F2" alt="Discord" /></a> 
   <a href="https://t.me/dexfinance"><img src="https://img.shields.io/badge/Telegram-20B2AA?style=for-the-badge&amp;color=27A7E7" alt="Telegram" /></a> 
   <a href="https://www.youtube.com/@DexFinance"><img src="https://img.shields.io/badge/YouTube-20B2AA?style=for-the-badge&amp;color=c4302b" alt="YouTube" /></a> 
-  <a href="https://x.com/DexFinance"><img src="https://img.shields.io/badge/X%20(Twitter)-20B2AA?style=for-the-badge&amp;color=050301" alt="X" /></a>
+  <a href="https://x.com/DexFinance"><img src="https://img.shields.io/badge/X%20(Twitter)-20B2AA?style=for-the-badge&amp;color=050301" alt="X" /></a> 
+  <a href="https://docs.dexfi.com/"><img src="https://img.shields.io/badge/Docs-20B2AA?style=for-the-badge&amp;color=1e7df0" alt="Docs" /></a> 
 </p>
 
+### DexFi | Autonomously governed. Yield Driven.
 
 #### DexFi offers an ecosystem of financial products designed to empower users and simplify the DeFi experience. 
 
 Invest like a pro with advanced strategies employed by experienced investors. The Google of yield farming is here. Find and compare ALL the best farms in DeFi - ALL in one place.
 
 --------------------
+<br />
 
-## The Google of yield farming is here.
+# DexFi | Autonomously governed. Yield Driven.
+
+### The Google of yield farming is here.
 
 ### Find and compare ALL the best farms in DeFi – ALL in one place.
 
@@ -105,7 +109,9 @@ Learn more about DexFi's yield aggregator on our website [here](https://dexfi.co
 
 -----------------------
 
-# DOCS
+# WEBSITE & DOCS
+
+Visit the website today at https://dexfi.com
 
 Read the full documentation at https://docs.dexfi.com
 
